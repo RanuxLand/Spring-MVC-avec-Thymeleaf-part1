@@ -24,4 +24,15 @@
 <img src="captures/7.png">
 <img src="captures/8.png">
 <img src="captures/9.png">
+<h2> Part2 et Spring Security 6 - InMemoryAuthentication </h2>
+<img src="captures/img_7.png">
+<img src="captures/img_8.png">
+<img src="captures/img_9.png">
+<img src="captures/img_10.png">
+<img src="captures/img_11.png">
+<img src="captures/img_12.png">
+<img src="captures/img_13.png">
+<img src="captures/img_14.png">
+<img src="captures/img_13 5.png">
+
 
