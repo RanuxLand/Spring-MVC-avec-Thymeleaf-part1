@@ -1,5 +1,5 @@
 <h2>Compte rendu</h2>
-h2>Partie Code/h2>
+<h2>Partie Code/h2>
 <h2>Architecture du projet</h2>
 <img src="captures/img.png">
 <h2>class Patient</h2>
